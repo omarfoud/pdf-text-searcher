@@ -1,0 +1,4 @@
+# requirements.txt
+pypdf==5.4.0    # Pure-Python PDF library
+whoosh==2.7.4   # Pure-Python full-text indexing/search library
+nltk            # Natural Language Toolkit for text processing (tokenization, stemming, lemmatization)
